@@ -14,7 +14,7 @@
 - Install packages 
 
 ```
-pip3 insyall -r requirements.txt 
+pip3 install -r requirements.txt 
 
 ```
 - Run inital migrations 
