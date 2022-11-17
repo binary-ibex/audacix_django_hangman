@@ -23,6 +23,13 @@ pip3 install -r requirements.txt
 python3 manage.py migrate
 ```
 
+- Load data 
+
+```
+python3 manage.py loaddata fixtures.yaml
+
+```
+
 - Run development server
 ```
 python3 manage.py runserver 8000
