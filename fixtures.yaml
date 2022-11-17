@@ -1,0 +1,30 @@
+- model: game.Words
+  pk: 1
+  fields:
+    word: python
+    guess_characters: py
+    max_guess: 2
+- model: game.Words
+  pk: 2
+  fields:
+    word: hangman
+    guess_characters: gn
+    max_guess: 2
+- model: game.Words
+  pk: 3
+  fields:
+    word: audacix
+    guess_characters: dix
+    max_guess: 2
+- model: game.Words
+  pk: 4
+  fields:
+    word: bottle
+    guess_characters: tb
+    max_guess: 2
+- model: game.Words
+  pk: 5
+  fields:
+    word: pen
+    guess_characters: en
+    max_guess: 2

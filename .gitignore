@@ -1,0 +1,4 @@
+venv
+*.sqlite3
+hangman/__pycache__
+game/__pycache__
